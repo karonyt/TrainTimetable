@@ -6,8 +6,7 @@
 
 Node.jsで動かします
 
-![Uploading image.png…]()
-
+![img1](https://github.com/karonyt/TrainTimetable/docs/image.png)  
 
 ## どうやって使うの？
 
