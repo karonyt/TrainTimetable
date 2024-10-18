@@ -6,7 +6,7 @@
 
 Node.jsで動かします
 
-![img1](https://github.com/karonyt/TrainTimetable/docs/image.png)  
+![img1](https://raw.githubusercontent.com/karonyt/TrainTimetable/refs/heads/main/docs/image.png)
 
 ## どうやって使うの？
 
