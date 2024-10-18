@@ -1,0 +1,78 @@
+{
+    "nobori": {
+        "weekdays": [
+            {
+                "time": "10:00",
+                "type": "普通",
+                "destination": "上りの終点①行き"
+            },
+            {
+                "time": "19:00",
+                "type": "特急",
+                "destination": "上りの終点②行き"
+            }
+        ],
+        "saturday": [
+            {
+                "time": "05:00",
+                "type": "普通",
+                "destination": "上りの終点①行き"
+            },
+            {
+                "time": "08:00",
+                "type": "快速",
+                "destination": "上りの終点②行き"
+            }
+        ],
+        "holiday": [
+            {
+                "time": "11:00",
+                "type": "普通",
+                "destination": "上りの終点①行き"
+            },
+            {
+                "time": "23:55",
+                "type": "普通",
+                "destination": "上りの終点②行き"
+            }
+        ]
+    },
+    "kudari": {
+        "weekdays": [
+            {
+                "time": "09:00",
+                "type": "普通",
+                "destination": "下りの終点①行き"
+            },
+            {
+                "time": "23:00",
+                "type": "特急",
+                "destination": "下りの終点②行き"
+            }
+        ],
+        "saturday": [
+            {
+                "time": "10:00",
+                "type": "普通",
+                "destination": "下りの終点①行き"
+            },
+            {
+                "time": "15:00",
+                "type": "快速",
+                "destination": "下りの終点②行き"
+            }
+        ],
+        "holiday": [
+            {
+                "time": "12:00",
+                "type": "普通",
+                "destination": "下りの終点①行き"
+            },
+            {
+                "time": "18:00",
+                "type": "普通",
+                "destination": "下りの終点②行き"
+            }
+        ]
+    }
+}

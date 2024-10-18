@@ -1,0 +1,15 @@
+{
+  "name": "train-timetable",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Karon",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.1",
+    "holiday-jp": "^1.0.0"
+  }
+}
