@@ -1,6 +1,4 @@
-# TrainTimetable
-
-## これは何に使うの？
+# これは何に使うの？
 
 学校などで最寄り駅に来る電車の時刻表を設定することで簡単に時刻表サイトを作ることができるものです
 
@@ -8,7 +6,7 @@ Node.jsで動かします
 
 ![img1](https://raw.githubusercontent.com/karonyt/TrainTimetable/refs/heads/main/docs/image.png)
 
-## どうやって使うの？
+# どうやって使うの？
 
 ① [Node.js](https://nodejs.org/en/download/package-manager)をダウンロード
 
@@ -16,7 +14,7 @@ Node.jsで動かします
 
 ③ここからはOSによって変わります
 
-### Windowsの場合
+## Windowsの場合
 
 preparation.cmdを1回だけ実行
 
@@ -26,7 +24,7 @@ localhost:3000で開くはずです
 
 ※初回のみpreparation.cmdを実行すれば次からはstart.cmdのみ実行でいけるようになります
 
-### Linux系の場合
+## Linux系の場合
 
 preparation.shを1回だけ実行
 
@@ -36,13 +34,13 @@ localhost:3000で開くはずです
 
 ※初回のみpreparation.shを実行すれば次からはstart.shのみ実行でいけるようになります
 
-## カスタマイズするには？
+# カスタマイズするには？
 
 config.jsを編集してください
 
-### 独自の時刻表を導入したい
+# 独自の時刻表を導入したい
 
 sample-timetable.jsonを参考にして時刻表を作成してください
 
-### LICENSE
+# LICENSE
 MIT LICENSEです
